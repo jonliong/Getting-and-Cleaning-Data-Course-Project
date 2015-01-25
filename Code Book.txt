@@ -1,0 +1,250 @@
+Data Dictionary - Human Activity Recognition Using Smartphones Dataset
+
+subject - Subject ID
+	1...30. Unique identifier or person performing the activities
+
+activitydescription - Activity Description
+	Laying
+	Sitting
+	Standing
+	Walking
+	Walking Downstairs
+	Walking Upstairs
+
+"tbodyaccmeanx" - Time Domain Body Acceleration mean, x-axis
+	Mean of all observations for each subject-activity combination 
+
+"tbodyaccmeany" - Time Domain Body Acceleration mean, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccmeanz" - Time Domain Body Acceleration mean, z-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccstdx" - Time Domain Body Acceleration standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccstdy" - Time Domain Body Acceleration standard deviation, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccstdz" - Time Domain Body Acceleration standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tgravityaccmeanx" - Time Domain Gravity Acceleration mean, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tgravityaccmeany" - Time Domain Gravity Acceleration mean, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tgravityaccmeanz" - Time Domain Gravity Acceleration mean, z-axis
+	Mean of all observations for each subject-activity combination
+
+"tgravityaccstdx" - Time Domain Gravity Acceleration standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tgravityaccstdy" - Time Domain Gravity Acceleration standard deviation, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tgravityaccstdz" - Time Domain Gravity Acceleration standard deviation, z-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccjerkmeanx" - Time Domain Body Acceleration Jerk mean, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccjerkmeany" - Time Domain Body Acceleration Jerk mean, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccjerkmeanz" - Time Domain Body Acceleration Jerk mean, z-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccjerkstdx" - Time Domain Body Acceleration Jerk standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccjerkstdy" - Time Domain Body Acceleration Jerk standard deviation, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccjerkstdz" - Time Domain Body Acceleration Jerk standard deviation, z-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyromeanx" - Time Domain Body Gyro mean, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyromeany" - Time Domain Body Gyro mean, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyromeanz" - Time Domain Body Gyro mean, z-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrostdx" - Time Domain Body Gyro standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrostdy" - Time Domain Body Gyro standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrostdz" - Time Domain Body Gyro standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrojerkmeanx" - Time Domain Body Gyro jerk mean, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrojerkmeany" - Time Domain Body Gyro jerk mean, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrojerkmeanz" - Time Domain Body Gyro jerk mean, z-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrojerkstdx" - Time Domain Body Gyro jerk standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrojerkstdy" - Time Domain Body Gyro jerk standard deviation, y-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrojerkstdz" - Time Domain Body Gyro jerk standard deviation, z-axis
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccmagmean" - Time Domain Body Acceleration Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccmagstd" - Time Domain Body Acceleration Magnitude standard deviation
+	Mean of all observations for each subject-activity combination
+
+"tgravityaccmagmean" - Time Domain Gravity Acceleration Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+
+"tgravityaccmagstd" - Time Domain Gravity Acceleration Magnitude standard deviation
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccjerkmagmean" - Time Domain Body Acceleration jerk Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+"tbodyaccjerkmagstd" - Time Domain Body Acceleration jerk Magnitude standard deviation
+	Mean of all observations for each subject-activity combination
+
+"tbodygyromagmean" - Time Domain Body Gyro Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+"tbodygyromagstd" - Time Domain Body Gyro Magnitude standard deviation
+	Mean of all observations for each subject-activity combination 
+
+"tbodygyrojerkmagmean" - Time Domain Body Gyro jerk Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+"tbodygyrojerkmagstd" - Time Domain Body Gyro jerk Magnitude standard deviation
+	Mean of all observations for each subject-activity combination 
+
+"fbodyaccmeanx" - Frequency Domain Body Acceleration mean, x-axis
+	Mean of all observations for each subject-activity combination 
+
+"fbodyaccmeany" - Frequency Domain Body Acceleration mean, y-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccmeanz" - Frequency Domain Body Acceleration mean, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccstdx" - Frequency Domain Body Acceleration standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccstdy" - Frequency Domain Body Acceleration standard deviation, y-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccstdz"  - Frequency Domain Body Acceleration standard deviation, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccmeanfreqx" - Frequency Domain Body Acceleration mean frequency, x-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccmeanfreqy"  - Frequency Domain Body Acceleration mean frequency, y-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccmeanfreqz"  - Frequency Domain Body Acceleration mean frequency, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccjerkmeanx"  - Frequency Domain Body Acceleration jerk mean, x-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccjerkmeany" - Frequency Domain Body Acceleration jerk mean, y-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccjerkmeanz" - Frequency Domain Body Acceleration jerk mean, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccjerkstdx" - Frequency Domain Body Acceleration jerk standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccjerkstdy" - Frequency Domain Body Acceleration jerk standard deviation, y-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccjerkstdz" - Frequency Domain Body Acceleration jerk standard deviation, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccjerkmeanfreqx" - Frequency Domain Body Acceleration jerk mean frequency, x-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccjerkmeanfreqy" - Frequency Domain Body Acceleration jerk mean frequency, y-axis
+	Mean of all observations for each subject-activity combination
+
+fbodyaccjerkmeanfreqz" - Frequency Domain Body Acceleration jerk mean frequency, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyromeanx" - Frequency Domain Body Gyro mean, x-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyromeany" - Frequency Domain Body Gyro mean, y-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyromeanz" - Frequency Domain Body Gyro mean, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyrostdx" - Frequency Domain Body Gyro standard deviation, x-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyrostdy" - Frequency Domain Body Gyro standard deviation, y-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyrostdz" - Frequency Domain Body Gyro standard deviation, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyromeanfreqx" - Frequency Domain Body Gyro mean frequency, x-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyromeanfreqy" - Frequency Domain Body Gyro mean frequency, y-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodygyromeanfreqz" - Frequency Domain Body Gyro mean frequency, z-axis
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccmagmean" - Frequency Domain Body Acceleration Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccmagstd" - Frequency Domain Body Acceleration Magnitude standard deviation
+	Mean of all observations for each subject-activity combination
+
+"fbodyaccmagmeanfreq" - Frequency Domain Body Acceleration Magnitude mean frequency
+	Mean of all observations for each subject-activity combination
+
+"fbodybodyaccjerkmagmean" - Frequency Domain Body Acceleration jerk Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+"fbodybodyaccjerkmagstd" - Frequency Domain Body Acceleration jerk Magnitude standard deviation
+	Mean of all observations for each subject-activity combination
+
+"fbodybodyaccjerkmagmeanfreq" - Frequency Domain Body Acceleration jerk Magnitude mean frequency
+	Mean of all observations for each subject-activity combination
+
+"fbodybodygyromagmean" - Frequency Domain Body Gyro Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+"fbodybodygyromagstd" - Frequency Domain Body Gyro Magnitude standard deviation
+	Mean of all observations for each subject-activity combination
+
+"fbodybodygyromagmeanfreq" - Frequency Domain Body Gyro Magnitude mean frequency
+	Mean of all observations for each subject-activity combination
+
+"fbodybodygyrojerkmagmean" - Frequency Domain Body Gyro jerk Magnitude mean
+	Mean of all observations for each subject-activity combination
+
+"fbodybodygyrojerkmagstd" - Frequency Domain Body Gyro jerk Magnitude standard deviation
+	Mean of all observations for each subject-activity combination
+
+"fbodybodygyrojerkmagmeanfreq" - Frequency Domain Body Gyro jerk Magnitude mean frequency
+	Mean of all observations for each subject-activity combination
